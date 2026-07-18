@@ -1,0 +1,12 @@
+title: A2A 协议指南
+description: 应用间（Application-to-Application）通信协议完整指南
+author: orion202607-cyber
+url: https://orion202607-cyber.github.io/hello
+baseurl: /hello
+lang: zh-CN
+timezone: Asia/Shanghai
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
